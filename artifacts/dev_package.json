@@ -14,8 +14,20 @@
 	"odataSource": [],
 	"odataMock": [],
 	"dictionary": [],
-	"jsclass": [],
-	"jsscript_group": [],
+	"jsclass": [
+		{
+			"id": "b59432de-819e-ee11-8559-309c23b13ee9",
+			"name": "test",
+			"description": null
+		}
+	],
+	"jsscript_group": [
+		{
+			"id": "b39432de-819e-ee11-8559-309c23b13ee9",
+			"name": "testnpmmodule",
+			"description": ""
+		}
+	],
 	"theme": [],
 	"pdf": [],
 	"rulesengine": [],
