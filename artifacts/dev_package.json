@@ -1,0 +1,47 @@
+{
+	"id": "9d2a445e-799e-ee11-8558-309c23b13ee9",
+	"createdAt": "2023-12-19T14:17:41.480Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/sveingunnarlarsen/test-role-acl.git"
+	},
+	"name": "test-role-acl",
+	"description": "testing",
+	"ver": "23.12.19.1517",
+	"enableCICD": true,
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [
+		{
+			"id": "f69ee647-799e-ee11-8558-309c23b13ee9",
+			"name": "RoleDeploy",
+			"description": null
+		}
+	],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}
